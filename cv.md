@@ -48,3 +48,16 @@ https://andreipetrov1211.github.io/
 * Automation of the employer's activities based on 1C "Enterprise" 
 * Setting up and administering standard and atypical configurations based on 1C 
 * User support and consultation
+
+## EDUCATION 
+### ITMO UNIVERSITY
+*Saint-Petersburg, Russia, 2022*
+Web developer 
+
+### Peter The Great St.Petersburg Polytechnic University
+*Saint-Petersburg, Russia, 2013*
+Informatic-Economist
+
+## LANGUAGES 
+**Russian:** Native language
+**English:** Intermediate
