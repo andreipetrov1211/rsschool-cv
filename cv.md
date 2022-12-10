@@ -1,5 +1,6 @@
 # ANDREI PETROV
-*andreipetrov1211@gmail.com | +373 608-72-660 | Chisinau, Moldova* 
+![Мое фото](img/me.png)
+*andreipetrov1211@gmail.com | +373 608-72-660 | Chisinau, Moldova | **discord:** andrei1211* 
 ## 31 years 
 **citizenship:** russian 
 https://andreipetrov1211.github.io/
