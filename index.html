@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+</head>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">Contacts</li>
+                    <li class="nav-item">Summary</li>
+                    <li class="nav-item">Skills</li>
+                    <li class="nav-item">Code</li>
+                    <li class="nav-item">Courses</li> 
+                    <li class="nav-item">Projects</li> 
+                    <li class="nav-item">Education</li>
+                    <li class="nav-item">English</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <body>
+        <div class="container main-container">
+            <section class="section">
+                <h1 class="main-title">Andrei Petrov</h1>
+                <img class="image" src="assets/img/me.png" alt="my photo">
+            </section>
+            <section class="section" id="Contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul class="section-list">
+                    <li class="section-item"><span class="span">e-mail: </span>andreipetrov1211@gmail.com</li>
+                    <li class="section-item"><span class="span">phone: </span>+373 608-72-660</li>
+                    <li class="section-item"><span class="span">city: </span>Chisinau</li>
+                </ul>
+            </section>
+            <section class="section" id="Summary">
+                <h2 class="section-title">Summary</h2>
+                <p class="text">I have been taken interest in web development for a couple of years, so I have completed course in 2022 and started looking for some side job as a freelancer. I have some experience in making landing pages using html, CSS and JavaScript. I also have an experience in making custom themes for WordPress. I like to learn new technologies and I want to improve my skills in this area.</p>
+            </section>
+            <section class="section" id="Skills">
+                <h2 class="section-title">Skills</h2>
+                <ul class="section-list">
+                    <li class="section-item">HTML, CSS, SASS</li>
+                    <li class="section-item">JavaScript </li>
+                    <li class="section-item">BEM methodology</li>
+                    <li class="section-item">Responsive and cross-browser compatible design</li>
+                    <li class="section-item">Bootstrap</li>
+                    <li class="section-item">Figma</li>
+                </ul>
+            </section>
+            <section class="section" id="Code">
+                <h2 class="section-title">Code</h2>
+            </section>
+            <pre>
+                <code>
+                    $('a[href*="#"]').on('click', function() {
+                        $('html, body').animate({
+                          scrollTop: $($.attr(this, 'href')).offset().top
+                        }, 500);
+                        return false;
+                      });
+                </code>
+            </pre>
+            <section class="section" id="Courses">
+                <h2 class="section-title">Courses</h2>
+                <p class="text"><span class="span">ITMO University: </span> Web development course, 2022</p>
+            </section>
+            <section class="section" id="Projects">
+                <h2 class="section-title">Projects</h2>
+                <a href="https://andreipetrov1211.github.io/" class="section-link">https://andreipetrov1211.github.io/</a>
+            </section>
+            <section class="section" id="Education">
+                <h2 class="section-title">Education</h2>
+                <p class="text"><span class="span">Peter The Great St.Petersburg Polytechnic University: </span>Informatic-Economist, 2022</p>
+            </section>
+            <section class="section" id="English">
+                <h2 class="section-title">English</h2>
+                <p class="text"><span class="span">English: </span>Intermediate (B1)</p>
+            </section>
+        </div>
+    </body>
+    <footer class="footer">
+        <div class="container">
+        </div>
+    </footer>
+</html>
